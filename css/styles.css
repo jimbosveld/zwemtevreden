@@ -123,6 +123,7 @@ p.quote {
   padding-top: 2em;
 }
 .jumboLogo {
+  width: 20em;
   height: 10em;
   background: url(../assets/img/logoxs.png) no-repeat;
 }
