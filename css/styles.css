@@ -26,7 +26,7 @@ h1,
 h2,
 h3,
 tagline {
-  color: #D11642;
+  color: #00B4F1;
   word-break: break-word;
   font-weight: 700;
   font-family: 'Rokkitt', sans-serif;
@@ -66,7 +66,7 @@ li.text {
   margin-left: -40px;
   padding-left: 10px;
   border-left: 2px solid gray;
-  color: #D11642;
+  color: #00B4F1;
   list-style: none;
   font-size: 1.2em;
 }
@@ -142,7 +142,7 @@ tagline {
 }
 .textAreas h3 {
   margin-bottom: .4em;
-  color: #D11642;
+  color: #00B4F1;
   font-size: 1.4em;
 }
 .footer {
@@ -155,12 +155,12 @@ tagline {
   background: #e9e9e9;
 }
 .footer a {
-  color: #D11642;
+  color: #00B4F1;
   text-decoration: none !important;
 }
 .footer a:hover,
 .textAreas a:hover {
-  color: #d11642;
+  color: #00b4f1;
 }
 .footer-xs {
   list-style: none;
